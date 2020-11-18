@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pedro Sodré but you can call me Eury.
+I'm Pedro Sodré.
 
 - 🔭 I’m currently working on developing more webdev skills 
 - 🌱 I’m currently learning Node, ReactJS and React Native
