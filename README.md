@@ -6,7 +6,7 @@ I'm Pedro Sodré.
 - 🌱 I’m currently learning Node, ReactJS and React Native
 
 - 💬 Ask me about any tech stuff or games cuz I really love gaming.
-- 📫 How to reach me: you can find me on my personal mail pedssodre@gmail.com or on my [twitter](https://twitter.com/Eurynomee_) as well
+- 📫 How to reach me: you can find me on my personal mail pedssodre@gmail.com
 - ⚡ Fun fact: I really love playing World of Warcraft and currently have a Guild there with tons of awesome people.
 
 <h1 align='center'>
